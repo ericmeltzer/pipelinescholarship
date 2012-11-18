@@ -47,6 +47,11 @@ table {
 }
 
 /* LAYOUT STYLES */
+
+b {
+	font-weight:bold;
+}
+
 body {
   font-size: 15px;
   line-height: 1.5; 
@@ -332,7 +337,7 @@ ul li {
 
 ol li {
   list-style: decimal inside;
-  padding-left: 3px;
+  padding-left: 18px;
 }
 
 dl dd {
